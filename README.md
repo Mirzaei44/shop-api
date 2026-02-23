@@ -1,6 +1,7 @@
 # Shop API – Django REST Backend
 
-This project is a production-style backend built with Django and Django REST Framework.
+A production style e-commerce backend built with Django REST Framework.
+Focus: order lifecycle rules, business isolation, and API documentation/testing.
 
 It simulates a simple e-commerce core system with:
 
