@@ -125,6 +125,10 @@ Authorization: Token YOUR_TOKEN
 
 ---
 
+
+
+
+
 ## Main Endpoints
 
 Products:
@@ -186,6 +190,21 @@ admin / admin123
 user1..userN / password123  
 
 ---
+
+
+## Django Admin
+
+The project includes Django Admin for internal data management.
+
+Access:
+http://127.0.0.1:8001/admin/
+
+Admin credentials (after seeding):
+admin / admin123
+
+
+
+--- 
 
 ## Testing
 
